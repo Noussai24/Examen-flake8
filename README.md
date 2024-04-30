@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gestion de Tournois d'Échecs
 
 Ce projet est une application de gestion de tournois d'échecs écrite en Python. 
@@ -50,3 +51,6 @@ flake8 --format=html --htmldir=rapport_flake8
 
 Ouvrez `rapport_flake8/index.html` dans votre navigateur pour voir le rapport.
 
+=======
+# Examen-flake8
+>>>>>>> ae5a6ff6a7712f91eef17457e335e2955c70557f
